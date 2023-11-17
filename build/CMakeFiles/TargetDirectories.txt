@@ -1,0 +1,3 @@
+/home/icebear/文档/CppCode/build/CMakeFiles/rebuild_cache.dir
+/home/icebear/文档/CppCode/build/CMakeFiles/edit_cache.dir
+/home/icebear/文档/CppCode/build/CMakeFiles/a.dir
